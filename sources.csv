@@ -11,7 +11,7 @@ mycroftwilde_templates, https://raw.githubusercontent.com/mycroftwilde/portainer
 mediadepot_templates, https://raw.githubusercontent.com/mediadepot/templates/master/portainer.json, https://github.com/mediadepot/templates/
 shmolf_templates, https://raw.githubusercontent.com/shmolf/portainer-templates/main/templates-2.0.json, https://github.com/shmolf/portainer-templates/
 portainer_templates, https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json, https://github.com/portainer/templates/
-mycroftwilde_templates, https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json
-xneo1_templates, https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json
-revil-O_templates, https://raw.githubusercontent.com/revil-O/Portainer-Templates/main/templates.json
-lampel_templates, https://raw.githubusercontent.com/chlampel/portainer-templates/main/selection-1/templates.json, https://raw.githubusercontent.com/chlampel/portainer-templates/main/selection-2/templates.json
+mycroftwilde_templates, https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json, https://github.com/mycroftwilde/portainer_templates/
+xneo1_templates, https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json, https://github.com/xneo1/portainer_templates/
+revil-O_templates, https://raw.githubusercontent.com/revil-O/Portainer-Templates/main/templates.json, https://github.com/revil-O/Portainer-Templates/
+lampel_templates, https://raw.githubusercontent.com/chlampel/portainer-templates/main/selection-1/templates.json, https://raw.githubusercontent.com/chlampel/portainer-templates/main/selection-2/templates.json, https://github.com/chlampel/portainer-templates/
