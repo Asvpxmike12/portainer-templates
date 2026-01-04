@@ -5680,6 +5680,22 @@
     },
     {
       "categories": [
+        "Analytics"
+      ],
+      "description": "Open source monitoring tool built with Node.js & React",
+      "logo": "https://raw.githubusercontent.com/KSJaay/Lunalytics/main/public/LogoWithName.png",
+      "name": "lunalytics",
+      "platform": "linux",
+      "repository": {
+        "stackfile": "Template/Stack/lunalytics.yml",
+        "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "title": "Lunalytics",
+      "type": 3,
+      "maintainer": " https://github.com/xneo1/portainer_templates/"
+    },
+    {
+      "categories": [
         "Network"
       ],
       "description": "NetBox is an infrastructure resource modeling (IRM) application designed to empower network automation. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers.",
@@ -20731,7 +20747,7 @@
       "type": 3
     },
     {
-      "id": 462,
+      "id": 463,
       "categories": [
         "Tools",
         "Web"
@@ -20808,7 +20824,7 @@
       ]
     },
     {
-      "id": 463,
+      "id": 464,
       "categories": [
         "Vpn",
         "Tools",
@@ -20850,11 +20866,11 @@
       "labels": []
     },
     {
-      "id": 464,
+      "id": 465,
       "categories": [
-        "Other",
+        "Tools",
         "Vpn",
-        "Tools"
+        "Other"
       ],
       "description": "This container contains OpenVPN and Deluge with a configuration where Deluge is running only when OpenVPN has an active tunnel. It bundles configuration files for many popular VPN providers to make the setup easier.",
       "env": [
@@ -20913,7 +20929,7 @@
       ]
     },
     {
-      "id": 465,
+      "id": 466,
       "categories": [
         "Security"
       ],
@@ -20935,7 +20951,7 @@
       ]
     },
     {
-      "id": 466,
+      "id": 467,
       "categories": [],
       "description": "Libresonic is a free, web-based media streamer, providing ubiqutious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room. /music = Location of music. /media = Location of other media. /podcasts = Location of podcasts. /playlists = Location for playlists storage. CONTEXT_PATH is for setting url-base in reverse proxy setups - (optional) Default user/pass is admin/admin",
       "env": [
@@ -20989,7 +21005,7 @@
       "name": "libresonic"
     },
     {
-      "id": 467,
+      "id": 468,
       "categories": [],
       "description": "NZBHydra is a meta search for NZB indexers and the \"spiritual successor\" to NZBmegasearcH. It provides easy access to a number of raw and newznab based indexers.",
       "env": [
@@ -21029,7 +21045,7 @@
       "name": "hydra2"
     },
     {
-      "id": 475,
+      "id": 476,
       "categories": [
         "Other",
         "Tools",
@@ -21091,7 +21107,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 480,
+      "id": 481,
       "categories": [
         "Games"
       ],
@@ -21141,7 +21157,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 494,
+      "id": 495,
       "categories": [
         "Games"
       ],
@@ -21191,7 +21207,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 503,
+      "id": 504,
       "categories": [
         "Games"
       ],
@@ -21241,7 +21257,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 518,
+      "id": 519,
       "categories": [
         "Mediamanagement"
       ],
@@ -21291,7 +21307,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 522,
+      "id": 523,
       "categories": [
         "Programming"
       ],
@@ -21341,7 +21357,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 542,
+      "id": 543,
       "categories": [
         "Games"
       ],
@@ -21391,7 +21407,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 544,
+      "id": 545,
       "categories": [
         "Games"
       ],
@@ -21441,7 +21457,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 566,
+      "id": 567,
       "categories": [
         "Programming"
       ],
@@ -21491,7 +21507,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 581,
+      "id": 582,
       "categories": [
         "Chat"
       ],
@@ -21541,7 +21557,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 589,
+      "id": 590,
       "categories": [
         "Chat"
       ],
@@ -21591,7 +21607,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 590,
+      "id": 591,
       "categories": [
         "Email"
       ],
@@ -21641,7 +21657,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 594,
+      "id": 595,
       "categories": [
         "Mediamanagement"
       ],
@@ -21697,7 +21713,7 @@
       "maintainer": " https://github.com/bauerpawel/Portainer_templates_v3_converter/"
     },
     {
-      "id": 598,
+      "id": 599,
       "categories": [
         "Chat"
       ],
